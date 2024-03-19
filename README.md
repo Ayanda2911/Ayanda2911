@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working bringing my useful ideas to life. 
+- 🌱 I’m currently learning react-native
+- 👯 I’m looking to collaborate on ios apps
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanda2911)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Ayanda2911/Ayanda2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
